@@ -1,0 +1,2 @@
+the app is solely for personal use only and plays music from local storage.. soon a version of online stuff will also be added.
+
